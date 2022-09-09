@@ -30,6 +30,3 @@ plain_text2 = cipher_decrypt_lower(plain_text, i2)
 
 print(f"For key {i}, decrypted text: {plain_text}")
 print(f"For key {i2}, decrypted text: {plain_text2}")
-print(ord("0"))
-print(ord("1"))
-print(ord("9"))
