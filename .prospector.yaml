@@ -1,0 +1,6 @@
+output-format: pylint
+
+ignore-paths:
+    - venv
+
+max-line-length: 120
